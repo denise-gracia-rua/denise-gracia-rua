@@ -38,12 +38,13 @@ para lograr decisiones más rápidas y efectivas.
 ---
 
 ## 🛠️ Herramientas
+## 🛠️ Tecnologías
 
-- Google Sheets / Excel  
-- SQL  
-- AWS (QuickSight)  
-- Google Cloud  
-- APIs & Automatización  
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=zapier&logoColor=white)
 
 ---
 
