@@ -15,17 +15,12 @@ Combino análisis, automatización y liderazgo para escalar procesos, mejorar la
 
 ---
 
-## 🧠 Mi enfoque como Líder de Datos
+## 🧩 Qué me diferencia
 
-Trabajo conectando:
-
-➡️ Datos  
-➡️ Procesos  
-➡️ Personas  
-
-para lograr decisiones más rápidas y efectivas.
-
----
+- 📊 Traduzco datos en decisiones de negocio
+- ⚙️ Automatizo procesos para escalar equipos
+- 👥 Desarrollo personas y क्षमता analítica en equipos
+- 🚀 Priorizo impacto sobre complejidad técnica
 
 ## 🔧 Qué hago
 
@@ -37,7 +32,7 @@ para lograr decisiones más rápidas y efectivas.
 
 ---
 
-## 🛠️ Herramientas
+
 ## 🛠️ Tecnologías
 
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
@@ -58,7 +53,16 @@ para lograr decisiones más rápidas y efectivas.
 
 ## 📫 Conectemos
 
-- 💼 LinkedIn: https://www.linkedin.com/in/denisegraciarua/## Hi there 👋
+- 💼 LinkedIn: https://www.linkedin.com/in/denisegraciarua/##
+
+---
+## 📂 Proyectos destacados
+
+🚧 En construcción, enfocados en:
+
+- Automatización de validación de ventas
+- Dashboard comercial con KPIs estratégicos
+- Bot de reporting para equipos
 
 <!--
 **denise-gracia-rua/denise-gracia-rua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
